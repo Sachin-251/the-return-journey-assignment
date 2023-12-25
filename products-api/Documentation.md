@@ -46,7 +46,7 @@ All the responses are in JSON format.
 
 1.  GET /api/products (STATUS: 200)
 
-![](./images/image1.png)
+!(https://github.com/Sachin-251/the-return-journey-assignment/products-api/images/image1.png)
 
 2.  GET /api/products/:id (STATUS: 200)
 
