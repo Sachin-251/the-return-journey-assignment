@@ -46,8 +46,7 @@ All the responses are in JSON format.
 
 1.  GET /api/products (STATUS: 200)
 
-![](./images/image1.png){width="6.933933727034121in"
-height="4.675404636920385in"}
+![](./images/image1.png)
 
 2.  GET /api/products/:id (STATUS: 200)
 
