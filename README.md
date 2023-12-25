@@ -34,8 +34,8 @@ The server should now be running on http://localhost:3000.
 ```
 
 ## API Endpoints
-- GET /api/users: Get a list of users.
-- GET /api/users/:id: Get details of a specific user.
-- POST /api/users: Create a new user.
-- PUT /api/users/:id: Update user details.
-- DELETE /api/users/:id: Delete a user.
+- GET /api/products: Get a list of products.
+- GET /api/products/:id: Get details of a specific product.
+- POST /api/products: Create a new product.
+- PUT /api/products/:id: Update product details.
+- DELETE /api/products/:id: Delete a product.
